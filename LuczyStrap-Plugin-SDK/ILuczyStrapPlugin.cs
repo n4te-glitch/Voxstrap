@@ -112,4 +112,5 @@ namespace Bloxstrap.Plugins.PluginSDK
         void RegisterTheme(string themeId, string themePath);
         string GetCurrentTheme();
     }
+
 }
